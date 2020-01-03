@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+.logo {
+  max-width: 200px;
+}
+
+.background {
+  padding-bottom: 50px;
+}
+
+.footer {
+  padding-top: 100px;
+}
